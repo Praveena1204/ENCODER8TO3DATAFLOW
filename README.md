@@ -49,15 +49,18 @@ Figure 02  Encoder 8 * 3
 5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
+
 ![Screenshot 2024-12-25 143747](https://github.com/user-attachments/assets/d6b58f8b-8373-46bf-b63e-226271dcf401)
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 ![Screenshot 2024-12-25 143822](https://github.com/user-attachments/assets/67d60aeb-f476-47db-9afb-36634ec99e7f)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![Screenshot 2024-12-25 143834](https://github.com/user-attachments/assets/e8cb89c3-fda4-492b-af52-90c5ee977cd3)
 
 **RESULTS**
+
 Sucessfully implemented Encoder 8 To 3 in Dataflow Modelling using verilog and validated their functionality using their functional tables.
 
 
